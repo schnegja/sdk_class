@@ -1,0 +1,7 @@
+microsoft-agents-hosting-aiohttp>=0.9.0,<1.0.0
+microsoft-agents-hosting-core>=0.9.0,<1.0.0
+microsoft-agents-authentication-msal>=0.9.0,<1.0.0
+microsoft-agents-activity>=0.9.0,<1.0.0
+openai>=2.0.0,<3.0.0
+aiohttp>=3.10
+python-dotenv>=1.0.0
